@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'mtdsai88@gmail.com'
+    '91sanjipian@gmail.com'
 ];
 
 var urls=[
@@ -42,7 +42,7 @@ var urls=[
     '/',
 ];                                                                                                                  
 
-var JumpPage="https://mtdsai.com";
+var JumpPage="https://91sanji.com";
 
 var newestUrls = [];
 
@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://mtdsai.pages.dev',
-	'https://mtdsai.github.io/',
+	'https://91sanjipian-github-io.pages.dev',
+	'https://91sanjipian.github.io/',
 ];
 var foreverUrls = [
-	  'https://mtdsai.net',
+	  'https://91sjp.com',
 	JumpPage,
-	'https://mtdsai.com',
+	'https://91sanji.com',
 	
 ];
 var notices = [
@@ -133,7 +133,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问每天大赛'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91三级片'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
