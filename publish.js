@@ -37,12 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'bl96y08k.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91sanji.com";
+var JumpPage="https://ak85x97n.cc";
 
 var newestUrls = [];
 
